@@ -19,7 +19,7 @@
 - 团队中算好自己的帐，不要盯着别人干活。
 
 ## 关于书单
-📖 各种电子书的<a href="https://github.com/jingzl/honeycomb/blob/main/book/README_book.md">下载</a>。
+📖 各种电子书的<a href="https://github.com/jingzl/honeycomb/blob/main/book/README.md">下载</a>。
 
 
 
