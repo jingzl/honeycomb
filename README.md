@@ -19,9 +19,7 @@
 - 团队中算好自己的帐，不要盯着别人干活。
 
 ## 关于书单
-- 为什么伟大不能被计划_肯尼斯·斯坦利：推荐 ☆☆☆
-- 复盘网飞：推荐，关于创业、产品、团队及企业文化等。
-
+📖 各种电子书的<a href="https://github.com/jingzl/honeycomb/blob/main/book/README_book.md">下载</a>。
 
 
 
