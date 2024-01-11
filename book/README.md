@@ -8,6 +8,7 @@
 ## 非技术类
 - <a href="https://pan.baidu.com/s/1T4GsMBlpZLZK7XjdG6Xosg?pwd=hcik" target="_blank">天朝的崩溃：鸦片战争再研究(2017修订版)</a>
 - <a href="https://pan.baidu.com/s/1nY-JDzFmtCFCWJqtppgQ6A?pwd=3nsn" target="_blank">为什么伟大不能被计划_肯尼斯·斯坦利</a>
+- <a href="https://pan.baidu.com/s/1AWYZ5bdPgdTakQuRMYL2lA?pwd=m2db" target="_blank">M型社会 中产阶级消失的危机与商机</a>
 
 ## 需要了解一点的哲学
 - <a href="https://pan.baidu.com/s/1VNco3VQrk3hfpS7X6EfRhg?pwd=yv7x" target="_blank">物种起源</a>
