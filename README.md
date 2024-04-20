@@ -38,6 +38,9 @@
 ## 优秀开源
 🥳 <a href="https://github.com/jingzl/honeycomb/blob/main/opensrc/README.md">开源索引</a>。
 
+## 装机必备
+🍢 <a href="https://github.com/jingzl/honeycomb/blob/main/tools/README.md">工具索引</a>。
+
 ## 关于创业
 - 互联网天生回避大而全。说人话，不要谈情怀，不要谈趋势和生态，就实在的讲你做的什么产品，服务的是谁，解决的是什么问题。不要企图把你产品的8大功能15大模块都讲清楚，用户买你的产品只要一个亮点就足够！
 
