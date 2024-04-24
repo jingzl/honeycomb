@@ -16,6 +16,7 @@
 - <a href="https://pan.baidu.com/s/1FPaFNxYQqMf4hY-NAGgM_Q?pwd=rcke" target="_blank">西方哲学史-下</a>
 
 ## 人文社科
-
+- 我读 系列【梁文道】
+- 常识 【梁文道】
 
 
