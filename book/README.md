@@ -15,8 +15,20 @@
 - <a href="https://pan.baidu.com/s/1XVFbRT5KiqyS0qf_xRo9hQ?pwd=92ht" target="_blank">西方哲学史-上</a>
 - <a href="https://pan.baidu.com/s/1FPaFNxYQqMf4hY-NAGgM_Q?pwd=rcke" target="_blank">西方哲学史-下</a>
 
-## 人文社科
+
+## 我的书单
 - 我读 系列【梁文道】
 - 常识 【梁文道】
+- 枪炮病菌与钢铁
+- 薛兆丰经济学讲义
+- 美的历程
+- 人类的故事
+- 中国历代政治得失
+- 传习录
+- 资治通鉴
+- 变量4-大国的腾挪【何帆】
+- 牧神记【宅猪】
+- 杀死一只知更鸟
+- 刀锋【毛姆】
 
 
