@@ -49,16 +49,13 @@
 - 在人数还不多的情况下，上各种流程，结果都流于形势。各种职责不清，在职的人不负责。
 - 过于以自我为中心，完全无视实际情况，无法冷静思考和反思。这样的领导，对周边都是一种伤害，慢慢的，都会避而远之。
 
-## 关于人文
-
-
 ## 可以了解一点的哲学
 - <a href="https://pan.baidu.com/s/1VNco3VQrk3hfpS7X6EfRhg?pwd=yv7x" target="_blank">物种起源</a>
 - <a href="https://pan.baidu.com/s/1XVFbRT5KiqyS0qf_xRo9hQ?pwd=92ht" target="_blank">西方哲学史-上</a>
 - <a href="https://pan.baidu.com/s/1FPaFNxYQqMf4hY-NAGgM_Q?pwd=rcke" target="_blank">西方哲学史-下</a>
 
 ## 关于书单
-📖 各种电子书的<a href="https://github.com/jingzl/honeycomb/blob/main/book/README.md">下载</a>。
+📖 各种<a href="https://github.com/jingzl/honeycomb/blob/main/book/README.md">电子书</a>。
 
 
 
