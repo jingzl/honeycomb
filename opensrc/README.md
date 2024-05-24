@@ -12,6 +12,10 @@ ChatGLM, CogVLM, CodeGeeX, WebGLM, GLM-130B, CogView, CogVideo | CogDL, GNNs, AM
 Unify Efficient Fine-Tuning of 100+ LLMs
 
 
+## DL & ML
+[**动手学深度学习**](https://github.com/d2l-ai/d2l-zh)
+面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
 
 ## GIS
 
