@@ -8,9 +8,9 @@ One for all free music in China。可以搜索和播放来自网易云音乐，Q
 [**UTools**](https://www.u.tools/)
 效率工具平台，在PC上可以很容易通过各种插件完成不同的任务。
 
-
-
-
+[**MAS**](https://massgrave.dev/):[GITHUB](https://github.com/massgravel/Microsoft-Activation-Scripts)
+A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+MAS是一个集合了多种激活工具的开源项目，支持HWID、Ohook、KMS38以及Online KMS等多种激活方式，旨在为用户提供一种简单、快捷、安全的方式来激活微软的产品。该项目由社区贡献者 MassGravel 维护和更新，支持激活 Windows 10/11 和 Office 2016/2019/2021 等多个版本。MAS项目可以帮助用户自动化激活过程，无需手动输入密钥或进行复杂的配置，大大简化了操作步骤。
 
 
 
