@@ -1,6 +1,12 @@
 # Open Source
 优秀的开源方案。
 
+
+## 全网最强自托管项目
+[**awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
+A list of Free Software network services and web applications which can be hosted on your own servers
+
+
 ## AI
 [**Meta-LLAMA**](https://github.com/meta-llama)
 由Meta AI发布的一个开放且高效的大型基础语言模型，LLAMA2，LLAMA3
