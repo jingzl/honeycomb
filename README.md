@@ -19,7 +19,7 @@
 
 ## 研发手册
 - 研发规范：**软件开发过程模型**
-- 代码规范：C/C++开发规范；嵌入式C开发规范；Python开发规范
+- 代码规范：C/C++开发规范；嵌入式C开发规范；Python开发规范；Go开发规范
 - 版本规范
 - 设计规范
 
@@ -40,6 +40,9 @@
 ## 优秀开源
 🥳 <a href="https://github.com/jingzl/honeycomb/blob/main/opensrc/README.md">开源索引</a>。
 
+## 关于书单
+📖 各种<a href="https://github.com/jingzl/honeycomb/blob/main/book/README.md">电子书</a>。
+
 ## 装机必备
 🍢 <a href="https://github.com/jingzl/honeycomb/blob/main/tools/README.md">工具索引</a>。
 
@@ -54,10 +57,3 @@
 - <a href="https://pan.baidu.com/s/1VNco3VQrk3hfpS7X6EfRhg?pwd=yv7x" target="_blank">物种起源</a>
 - <a href="https://pan.baidu.com/s/1XVFbRT5KiqyS0qf_xRo9hQ?pwd=92ht" target="_blank">西方哲学史-上</a>
 - <a href="https://pan.baidu.com/s/1FPaFNxYQqMf4hY-NAGgM_Q?pwd=rcke" target="_blank">西方哲学史-下</a>
-
-## 关于书单
-📖 各种<a href="https://github.com/jingzl/honeycomb/blob/main/book/README.md">电子书</a>。
-
-
-
-
