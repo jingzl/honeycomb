@@ -1,6 +1,9 @@
 # honeycomb
 各种有趣电子书籍的分享，希望对你有益。以下所有资料均来自网络，侵权即删。（ljz506@gmail.com）
 
+## Free-Programming-Books ️✨
+- <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">编程学习资源库官网</a> | <a href="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md" target="_blank">中文</a>
+
 ## 技术类
 - <a href="https://pan.baidu.com/s/1UvuFBLWq2TXEu1sOcLMxDw?pwd=tmsc" target="_blank">C++ Primer 3rd Edition 中文完美版</a>
 - <a href="https://pan.baidu.com/s/19J8YCswYOXhPI3Adj3EilA?pwd=6stc" target="_blank">高质量C++编程指南</a>
