@@ -13,6 +13,10 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 MAS是一个集合了多种激活工具的开源项目，支持HWID、Ohook、KMS38以及Online KMS等多种激活方式，旨在为用户提供一种简单、快捷、安全的方式来激活微软的产品。该项目由社区贡献者 MassGravel 维护和更新，支持激活 Windows 10/11 和 Office 2016/2019/2021 等多个版本。MAS项目可以帮助用户自动化激活过程，无需手动输入密钥或进行复杂的配置，大大简化了操作步骤。
 
 
+[**MobaXterm**](https://mobaxterm.mobatek.net/)
+Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+有免费版和收费版，运维利器。
+
 
 ## Mobile
 
