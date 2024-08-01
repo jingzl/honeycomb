@@ -13,6 +13,7 @@
 - 算法图解
 - <a href="https://gopl-zh.github.io/index.html" target="_blank">Go语言圣经（zh）</a> | <a href="https://github.com/gopl-zh/gopl-zh.github.com" target="_blank">GITHUB</a>
 - <a href="https://chai2010.cn/advanced-go-programming-book/" target="_blank">Go语言高级编程</a> | <a href="https://github.com/chai2010/advanced-go-programming-book" target="_blank">GITHUB</a>
+- <a href="https://aise.phodal.com/" target="_blank">AI辅助软件工程：实践与案例解析</a>
 
 ## 非技术类
 - <a href="https://pan.baidu.com/s/1T4GsMBlpZLZK7XjdG6Xosg?pwd=hcik" target="_blank">天朝的崩溃：鸦片战争再研究(2017修订版)</a>
