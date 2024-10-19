@@ -20,6 +20,11 @@ Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools 
 [**Processon**](https://www.processon.com/)
 在线思维导图、流程图绘制。
 
+[**荐片**](http://www.jianpian9.com)
+荐片播放器，很不错的体验。有PC版，非常好用。
+
+
+
 
 
 
