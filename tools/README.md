@@ -17,7 +17,7 @@ Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools 
 有免费版和收费版，运维利器。
 
 [**Processon**](https://www.processon.com/)
-在线思维导图、流程图绘制。
+在线思维导图、流程图绘制，有免费版本可用，但功能受限。
 
 [**荐片**](http://www.jianpian9.com/)
 荐片播放器，很不错的体验。有PC版，非常好用。
@@ -25,7 +25,8 @@ Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools 
 [**GIMP**](https://www.gimp.org/)
 免费开源的照片编辑工具，功能强大（PS的替代）。
 
-
+[**Draw.io**](https://github.com/jgraph/drawio-desktop)
+免费开源的流程结构绘图工具，功能强大（Visio的替代）。
 
 
 
